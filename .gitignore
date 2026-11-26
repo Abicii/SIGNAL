@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.runtime/
+.env
+.env.*
+!.env.example
+apps/web/node_modules/
+apps/web/dist/
+apps/web/.npm-cache/
